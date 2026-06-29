@@ -77,12 +77,6 @@ C:\> DefenderKiller.exe unload
 | **Authentihash** | `0a19385f73a265d8086a8b1304873110ce33a37ce08d442b9fb9390c82fa50e7` |
 | **VirusTotal** | [Full Analysis](https://www.virustotal.com/gui/file/d5764d24e78914ab2a9db6b24e323342d0b37998f43add1a9e49b00992b0d645) |
 
-## Tested Against
-
-| EDR | Process | Result |
-|-----|---------|--------|
-| CrowdStrike Falcon | CSFalconService.exe | ✅ Killed |
-| Windows Defender | MsMpEng.exe | ✅ Killed |
 
 ## Note
 
