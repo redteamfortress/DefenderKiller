@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DefenderKiller/DefenderKiller.vcxproj" Id="6ea9b4ed-7f8e-4ebf-a066-2fb16848cb13" />
+</Solution>
